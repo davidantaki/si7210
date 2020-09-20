@@ -1,0 +1,23 @@
+{
+    "name": "si7210",
+    "keywords": "hall sensor",
+    "description": "si7210 hall sensor driver using MBED",
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/ap-sons-inc/lib/si7210.git"
+    },
+    "authors": [
+        {
+            "name": "David Antaki",
+            "email": "antakidavid@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "dependencies": [],
+    "version": "1.0.0",
+    "frameworks": "mbed",
+    "platforms": [
+        "nucleo_l432kc",
+        "nucleo_f767zi"
+    ]
+}
